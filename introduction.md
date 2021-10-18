@@ -18,7 +18,7 @@ The problems with the third-party platform are:
 
 2. The lack of transparency in the platform's operation and data usage. As an example, food delivery platforms often pit restaurants against each other and force them to offer lower than market food prices to attract consumers.
 
-A decentralized food delivery platform hands over the ownership of the platform to the hands of its participants resulting in perfect alignment in their incentives, that is, the value created by the participants is redistributed back to the them instead of a middle man, viz. a centralized platform. By leveraging the blockchain technology, all the participants of the platform can also participate in the governance of the platform effectively and efficiently. The blockchain technology can also provide unprecedented data transparency and security, which leaves each individual participant's data in their sole discretion.
+A decentralized food delivery platform hands over the ownership of the platform to the hands of its participants resulting in perfect alignment in their incentives, that is, the value created by the participants is redistributed back to them instead of a middle man, viz. a centralized platform. By leveraging the blockchain technology, all the participants of the platform can also participate in the governance of the platform effectively and efficiently. The blockchain technology can also provide unprecedented data transparency and security, which leaves each individual participant's data in their sole discretion.
 
 <p align="center">
 <img src ="assets/decentralized-food-delivery-platform-diagram.jpg" alt="A typical centralized food delivery business model" width="50%" />
