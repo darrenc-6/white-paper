@@ -8,3 +8,5 @@ by [Aaron Haobei Song](https://github.com/songhobby), Darren Chen, et al
 
 - [Introduction](introduction.md)
 - [Governance](governance.md)
+- [Business Model](business-model.md)
+- [Roadmap](roadmap.md)
